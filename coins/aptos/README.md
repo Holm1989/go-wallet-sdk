@@ -10,7 +10,7 @@ To obtain the latest version, simply require the project using :
 ```shell
 go get -u github.com/okx/go-wallet-sdk/coins/aptos
 ```
-
+bc1pkn8tqxv39d7ct8fqkr2f9vh5kwqn8kp4r6xer6szc6k3uw245l6snqpjg5
 ## Usage
 ### New Address
 ```golang
